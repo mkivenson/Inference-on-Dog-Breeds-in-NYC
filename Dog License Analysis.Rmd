@@ -8,8 +8,8 @@ output:
     theme: united
     toc: true
     toc_float: true
+    code_folding: show
 ---
-
 
 
 ## Introduction
